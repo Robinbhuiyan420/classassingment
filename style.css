@@ -44,4 +44,6 @@
 	color: white;
 }
 .textimonial{}
-.textimonial img{}
+.textimonial img {
+	margin-top: -192PX;
+}
