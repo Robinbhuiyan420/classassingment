@@ -1,0 +1,47 @@
+.h-logo{}
+.h-logo img{width: 100px;}
+
+.banner{
+	background: #f9f9ff;
+}
+
+.menu{/*! list-style: none; */}
+.menu ul{/*! list-style: none; *//*! display: inline-block; */}
+.menu ul li{list-style: none;display: inline-block;}
+.menu ul li a{text-decoration: none;padding: 15px 15px;/*! margin-top: 17px; */line-height: 52px;}
+.menu ul li a:hover{}
+.arro{margin-left: 5px;}
+.arro-1 {
+	margin-left: 9px;
+}
+
+.b-content{margin-top: 172px;}
+.b-img{
+    width: 100%;
+    margin: auto;
+}
+.botton {
+	color: #0d6efd;
+	border-color: #0d6efd;
+}
+.b-botton{
+	background: #8490ff;
+	color: white;
+	font-weight: 600;
+}
+.number-scetion{
+	background: #8490ff;
+	color: white;
+}
+.Economy-section{
+	background: #f9f9ff;
+}
+.from-section{
+	background: #f9f9ff;
+}
+.b-f-botton{
+	background: #17a2b8;
+	color: white;
+}
+.textimonial{}
+.textimonial img{}
